@@ -93,7 +93,7 @@ public class Main {
         } while (ulang == 'y' || ulang == 'Y');
 
         System.out.println("\n=========================================");
-        System.out.println(" Terima kasih telah menggunakan layanan! ");
+        System.out.println(" Terima kasih telah menyewa Handphone disini ");
         System.out.println("=========================================");
 
         scanner.close();
