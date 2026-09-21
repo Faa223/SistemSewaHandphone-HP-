@@ -49,7 +49,7 @@ public class Sewa {
 
     public void cetakNotaSewa() {
         System.out.println("\n=========================================");
-        System.out.println("          NOTA SEWA HP            ");
+        System.out.println("          NOTA SEWA HANDPHONE            ");
         System.out.println("=========================================");
         pelanggan.tampilkanPelanggan();
         System.out.println("-----------------------------------------");
