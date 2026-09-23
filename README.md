@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1> SISTEM PENYEWAAN HANDPHONE </h1>
-  <p><b>Tugas Individu Pemrograman Berorientasi Objek (Java)</b></p>
 
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/Paradigm-OOP-green?style=for-the-badge" alt="OOP" />
